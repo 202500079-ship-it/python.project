@@ -1,0 +1,11 @@
+number
+ 
+step 1:start the Execuition
+atep 2:Read tge value the a,b,c
+step 3:if(a>b) and (a>b) then
+step 4:print a is the greatest value 
+step 5:Else if (b>a) and (b>c)then
+step 6:print b is the greatest value
+step 7:Else if (c>a) and (c>b) then
+step 8:print c is greastest value
+step 9:stop the execution
